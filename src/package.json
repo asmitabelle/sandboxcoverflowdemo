@@ -1,0 +1,13 @@
+{
+  "name": "reactjs-coverflow",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "prop-types": "15.6.1",
+    "react": "16.6.3",
+    "react-dom": "16.3.0",
+    "reactjs-coverflow": "2.1.3"
+  }
+}
